@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/valerymoor/character_creation_module/VR"
+VIRTUAL_ENV="/Users/valerymoor/Dev/character_creation_module/VR"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

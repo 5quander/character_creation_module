@@ -1,4 +1,4 @@
-#!/Users/valerymoor/character_creation_module/VR/bin/python3.11
+#!/Users/valerymoor/Dev/character_creation_module/VR/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
